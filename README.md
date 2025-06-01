@@ -6,17 +6,17 @@ this is very imperfect and was mostly vibe coding and learning for fun but still
 only http1 smuggling supported. will not be maintained
 <br/>
 ### usage
--u/--url <domain>
+-u/--url domain
 <br/>
--v/--vhost <virtual host>
+-v/--vhost virtual_host
 <br/>
--m/--method <HTTP method>
+-m/--method HTTP_method
 <br/>
 -q/--quiet
 <br/>
--t/--timeout <request timeout>
+-t/--timeout request_timeout
 <br/>
 --no-color
 <br/>
--x <proxy>
+-x proxy
 
